@@ -1,0 +1,16 @@
+[{
+    "userId":1,"id":1,"title":"Hello World",
+    "body":"Lorem ipsum dolor,consectetur adipisicing elit. Repudiandae, quam."
+},
+{
+    "userId":1,"id":2,"title":"Hello Python",
+    "body":"Lorem ipsum dolor,consectetur adipisicing elit. Repudiandae, quam."
+},
+{
+    "userId":1,"id":3,"title":"Hello Java",
+    "body":"Lorem ipsum dolor,consectetur adipisicing elit. Repudiandae, quam."
+},
+{
+    "userId":1,"id":4,"title":"Hello PHP",
+    "body":"Lorem ipsum dolor,consectetur adipisicing elit. Repudiandae, quam."
+}]
